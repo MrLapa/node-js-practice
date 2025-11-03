@@ -1,7 +1,7 @@
 {
-  "name": "fist-app-npm",
+  "name": "express-router-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "App to implement and practice with express router",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
